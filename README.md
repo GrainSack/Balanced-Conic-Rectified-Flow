@@ -24,7 +24,7 @@ If you find this work relevant to your research, please cite:
 ```bibtex
 @inproceedings{kim2025balanced,
   title     = {Balanced Conic Rectified Flow},
-  author    = {Kim, Shin Seong and Kwon, Mingi and Jeong, Jaeseok and Uh, Youngjung},
+  author    = {Kim, Shin seong and Kwon, Mingi and Jeong, Jaeseok and Uh, Youngjung},
   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
   year      = {2025}
 }
